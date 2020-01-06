@@ -202,3 +202,6 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+medium:
+  name: Medium
+  icon: icon-medium
